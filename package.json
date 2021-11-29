@@ -13,10 +13,6 @@
   "bugs": {
     "url": "https://github.com/webtorrent/create-torrent/issues"
   },
-  "browser": {
-    "./get-files.js": false,
-    "is-file": false
-  },
   "dependencies": {
     "bencode": "^2.0.2",
     "block-stream2": "^2.1.0",
